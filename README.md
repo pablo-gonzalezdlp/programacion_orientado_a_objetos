@@ -1,4 +1,4 @@
-# programacion_orientado_a_objetos
+# "Programacion orientado a objetos"
 
 Simulador de Comercio Electrónico "Ecommerce"
 Lenguaje C++
